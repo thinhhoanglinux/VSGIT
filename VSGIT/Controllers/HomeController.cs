@@ -13,7 +13,7 @@ namespace VSGIT.Controllers
             return View();
         }
         /// <summary>
-        /// ahihi
+        /// thay doi lan 2
         /// </summary>
         /// <returns></returns>
         public ActionResult About()
