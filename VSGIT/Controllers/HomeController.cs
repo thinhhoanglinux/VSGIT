@@ -12,7 +12,10 @@ namespace VSGIT.Controllers
         {
             return View();
         }
-
+        /// <summary>
+        /// ahihi
+        /// </summary>
+        /// <returns></returns>
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
